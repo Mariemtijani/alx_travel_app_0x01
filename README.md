@@ -10,6 +10,8 @@ This project implements:
 - Swagger API documentation
 - MySQL database integration using `django-environ`
 
+
+
 ---
 
 ## Models
